@@ -16,26 +16,26 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       
-      - name: Get baseURL
-        run: |
-          baseURL=$(cat hugo.toml | awk '/^baseURL/' | awk '{print $3}' | sed "s|[\'\"]||g" | awk -F '//' '{print $2}' | sed "s|/||")
-          if [[ $baseURL ]]; then
-            echo "CNAME=$baseURL" >>$GITHUB_ENV
-          else
-            echo "Check baseURL setting in root config.toml please."
-            cat config.toml
-          fi
+      # - name: Get baseURL
+      #   run: |
+      #     baseURL=$(cat hugo.toml | awk '/^baseURL/' | awk '{print $3}' | sed "s|[\'\"]||g" | awk -F '//' '{print $2}' | sed "s|/||")
+      #     if [[ $baseURL ]]; then
+      #       echo "CNAME=$baseURL" >>$GITHUB_ENV
+      #     else
+      #       echo "Check baseURL setting in root config.toml please."
+      #       cat config.toml
+      #     fi
       
-      - name: Check ACTION_REPO
-        run: |
-          ACTION_REPO=$(echo ${{ github.repository }} | awk -F '/' '{print $2}')
-          if [[ $ACTION_REPO == '${{ github.actor }}.github.io' ]]; then
-          echo "Action in Page repository, do nothing."
-            echo "PAGE_REPO=true" >>$GITHUB_ENV
-          else
-            sed -i "s|${{ env.CNAME }}|${{ github.actor }}.github.io/$ACTION_REPO|" config.toml
-            cat config.toml
-          fi
+      # - name: Check ACTION_REPO
+      #   run: |
+      #     ACTION_REPO=$(echo ${{ github.repository }} | awk -F '/' '{print $2}')
+      #     if [[ $ACTION_REPO == '${{ github.actor }}.github.io' ]]; then
+      #     echo "Action in Page repository, do nothing."
+      #       echo "PAGE_REPO=true" >>$GITHUB_ENV
+      #     else
+      #       sed -i "s|${{ env.CNAME }}|${{ github.actor }}.github.io/$ACTION_REPO|" config.toml
+      #       cat config.toml
+      #     fi
 
       - name: Setup Hugo
         if: ${{ env.PAGE_REPO != 'true' }}
