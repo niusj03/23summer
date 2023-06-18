@@ -16,15 +16,15 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       
-      # - name: Get baseURL
-      #   run: |
-      #     baseURL=$(cat config.toml | awk '/^baseURL/' | awk '{print $3}' | sed "s|[\'\"]||g" | awk -F '//' '{print $2}' | sed "s|/||")
-      #     if [[ $baseURL ]]; then
-      #       echo "CNAME=$baseURL" >>$GITHUB_ENV
-      #     else
-      #       echo "Check baseURL setting in root config.toml please."
-      #       cat config.toml
-      #     fi
+      - name: Get baseURL
+        run: |
+          baseURL=$(cat hugo.toml | awk '/^baseURL/' | awk '{print $3}' | sed "s|[\'\"]||g" | awk -F '//' '{print $2}' | sed "s|/||")
+          if [[ $baseURL ]]; then
+            echo "CNAME=$baseURL" >>$GITHUB_ENV
+          else
+            echo "Check baseURL setting in root config.toml please."
+            cat config.toml
+          fi
       
       - name: Check ACTION_REPO
         run: |
