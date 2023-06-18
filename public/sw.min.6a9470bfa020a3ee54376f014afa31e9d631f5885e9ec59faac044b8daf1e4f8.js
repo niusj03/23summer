@@ -1,1 +1,0 @@
-navigator.serviceWorker&&navigator.serviceWorker.register("/23summer/sw.js",{scope:"/"})
