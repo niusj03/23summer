@@ -1,0 +1,61 @@
+name: Pages-Repository
+on:
+  push:
+    branches:
+      - master  # Set a branch name to trigger deployment
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      
+      # - name: Get baseURL
+      #   run: |
+      #     baseURL=$(cat config.toml | awk '/^baseURL/' | awk '{print $3}' | sed "s|[\'\"]||g" | awk -F '//' '{print $2}' | sed "s|/||")
+      #     if [[ $baseURL ]]; then
+      #       echo "CNAME=$baseURL" >>$GITHUB_ENV
+      #     else
+      #       echo "Check baseURL setting in root config.toml please."
+      #       cat config.toml
+      #     fi
+      
+      - name: Check ACTION_REPO
+        run: |
+          ACTION_REPO=$(echo ${{ github.repository }} | awk -F '/' '{print $2}')
+          if [[ $ACTION_REPO == '${{ github.actor }}.github.io' ]]; then
+          echo "Action in Page repository, do nothing."
+            echo "PAGE_REPO=true" >>$GITHUB_ENV
+          else
+            sed -i "s|${{ env.CNAME }}|${{ github.actor }}.github.io/$ACTION_REPO|" config.toml
+            cat config.toml
+          fi
+
+      - name: Setup Hugo
+        if: ${{ env.PAGE_REPO != 'true' }}
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.98.0'
+          extended: true
+
+      - name: Build
+        if: ${{ env.PAGE_REPO != 'true' }}
+        run: hugo --minify
+
+      - name: Deploy
+        if: ${{ env.PAGE_REPO != 'true' }}
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          # github_token: ${{ secrets.GAYHUB_TOKEN }} # 该项适用于发布到源码相同repo的情况，不能用于发布到其他repo
+          personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}	# 发布到其他repo需要提供上面生成的personal access token
+          publish_dir: ./public	# Source Directory，hugo默认生成静态网页到public文件夹
+          publish_branch: pages-hugo	# 发布到哪个branch
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          force_orphan: true # make your publish branch with only the latest commit
