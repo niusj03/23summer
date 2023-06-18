@@ -29,7 +29,4 @@ We will be hosting a group study on deep learning at each Thursday 19:30 - 21:00
 
 ## More
 
-Click the **Get Schedule** button below to view our detailed timetable. Please click the **Mail** button directly if you have any questions.
-
-{{< button relref="/docs/schedule" >}}Get Schedule{{< /button >}}
-{{< button href="mailto:niusj03@gmail.com" >}}Mail{{< /button >}}
+Click the [**Get Schedule**](/docs/schedule) below to view our detailed timetable. Please click the [**Mail**](mailto:niusj03@gmail.com) directly if you have any questions.
