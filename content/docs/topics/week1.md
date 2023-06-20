@@ -1,13 +1,25 @@
 # Week 1
 
-Buttons are styled links that can lead to local page or external link.
+Topic: MAML
 
-## Example
+Keynote Speaker: Wang Ma
 
-```tpl
-{{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}
-{{</* button href="https://github.com/alex-shpak/hugo-book" */>}}Contribute{{</* /button */>}}
-```
+Time: 11:00 - 12:30 am
 
-{{< button relref="/" >}}Get Home{{< /button >}}
-{{< button href="https://github.com/alex-shpak/hugo-book" >}}Contribute{{< /button >}}
+Venue: Business Hall, 314 (SUSTech)
+
+Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/8FKe79A6nA1k)
+
+
+
+## References
+
+1. Chelsea Finn's blog on [Learning to Learn](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
+
+2. Chelsea Finn et al. [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks (MAML)](https://arxiv.org/abs/1703.03400)
+
+3. Alex Nichol et al. [On First-Order Meta-Learning Algorithms (Reptile)](https://arxiv.org/abs/1803.02999)
+
+4. Aniruddh Raghu et al. [Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML](https://arxiv.org/abs/1909.09157)
+
+5. Chelsea Finn. [Learning to Learn with Gradients](https://ai.stanford.edu/~cbfinn/_files/dissertation.pdf)
