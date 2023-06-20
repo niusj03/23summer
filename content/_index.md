@@ -17,7 +17,7 @@ type: docs
 
 This seminar focuses primarily on important topics in deep learning, specifically self-supervised learning. The topics will range from an introduction to self-supervised learning to the latest advancements. We also welcome individuals from related fields to share their insights, such as transfer learning, meta-learning, and so on. Depending on our progress, some signigicant and parctical topics like optimizers and backbones may also incorporated as additional sessions.
 
-We will be hosting a group study on deep learning at each Thursday 19:30 - 21:00 pm in Business Hall 314 (The first week will be at Tuesday 11:00 - 12:30 am in Business Hall 314). The online link will be released very soon.
+We will be hosting a group study on deep learning at each Thursday 19:30 - 21:00 pm in Business Hall 314 (The first week will be at Wednesday 11:00 - 12:30 am in Business Hall 314). The online link will be released very soon.
 
 ## Remarks
 
@@ -29,4 +29,7 @@ We will be hosting a group study on deep learning at each Thursday 19:30 - 21:00
 
 ## More
 
-Click the [**Get Schedule**](/docs/schedule) below to view our detailed timetable. Please click the [**Mail**](mailto:niusj03@gmail.com) directly if you have any questions.
+Click the **Get Schedule** below to view our detailed timetable. Please click the **Mail** directly if you have any questions.
+
+{{< button relref="/docs/schedule" >}}Get Schedule{{< /button >}}
+{{< button href="mailto:niusj03@gmail.com" >}}Mail{{< /button >}}

@@ -1,2 +1,2 @@
-# KaTeX
+# Week 6
 

@@ -1,2 +1,2 @@
-# Details
+# Week 3
 

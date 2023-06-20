@@ -1,2 +1,2 @@
-# Mermaid Chart
+# Week 7
 
