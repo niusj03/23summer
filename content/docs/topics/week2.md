@@ -8,7 +8,7 @@ Time: 19:30 - 21:00 pm
 
 Venue: Business Hall, 314 (SUSTech)
 
-Online Link: TencentMeeting
+Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHtp)
 
 
 ## References
