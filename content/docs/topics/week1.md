@@ -11,6 +11,11 @@ Venue: Business Hall, 314 (SUSTech)
 Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/8FKe79A6nA1k)
 
 
+## Slides
+The first week [slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week-1.pdf) from Wang Ma.
+
+[Slide-ref](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week1-ref.pdf) is reference slide from hungyi-lee.
+
 ## References
 
 1. Chelsea Finn's blog on [Learning to Learn](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)
