@@ -4,7 +4,7 @@ Topic: Model-Agnostic Meta-Learning (MAML)
 
 Keynote Speaker: Wang Ma
 
-Time: 11:00 - 12:30 am
+Time: Jun 21, 11:00 - 12:30 am
 
 Venue: Business Hall, 314 (SUSTech)
 

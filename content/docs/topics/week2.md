@@ -4,7 +4,7 @@ Topic: The Bridge: Transferable Feature towards Advanced Mechanism
 
 Keynote Speaker: Zebin Yun
 
-Time: 19:30 - 21:30 pm
+Time: Jun 29, 19:30 - 21:30 pm
 
 Venue: Lecture 3, 302 (SUSTech)
 
