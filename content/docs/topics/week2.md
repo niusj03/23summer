@@ -1,8 +1,8 @@
 # Week 2
 
-Topic: Transfer Learning
+Topic: The Bridge: Transferable Feature towards Advanced Mechanism
 
-Keynote Speaker: Zebing Yun
+Keynote Speaker: Zebin Yun
 
 Time: 19:30 - 21:30 pm
 
@@ -12,7 +12,7 @@ Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHt
 
 ## Slides
 
-The second week [slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week-1.pdf) from Zebin Yun.
+The second week [slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week-2.pdf) from Zebin Yun.
 
 
 ## References

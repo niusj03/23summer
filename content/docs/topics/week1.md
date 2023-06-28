@@ -1,6 +1,6 @@
 # Week 1
 
-Topic: MAML
+Topic: Model-Agnostic Meta-Learning (MAML)
 
 Keynote Speaker: Wang Ma
 
