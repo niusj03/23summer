@@ -4,11 +4,15 @@ Topic: Transfer Learning
 
 Keynote Speaker: Zebing Yun
 
-Time: 19:30 - 21:00 pm
+Time: 19:30 - 21:30 pm
 
-Venue: Business Hall, 314 (SUSTech)
+Venue: Lecture 3, 302 (SUSTech)
 
 Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHtp)
+
+## Slides
+
+The second week [slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week-1.pdf) from Zebin Yun.
 
 
 ## References
