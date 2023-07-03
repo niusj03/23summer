@@ -11,7 +11,7 @@ type: docs
 
 **Supervisor: Prof. Chao Wang**
 
-**Keynote Speakers: Wang Ma, Zebin Yun, Shengjie Niu**
+**Keynote Speakers: Wang Ma, Zebin Yun, Shengjie Niu, Lifan Lin, Yue Wu**
 
 ## Introduction
 
