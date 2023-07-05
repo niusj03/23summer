@@ -14,7 +14,7 @@ Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHt
 
 ## Material
 
-I. Weekly Slide form Shengjie Niu.
+I. Weekly [Slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week3_Seminar.pdf) form Shengjie Niu.
 
 II. Some tutorials for Semi-supervised Learning:
 
