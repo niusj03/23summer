@@ -14,7 +14,7 @@ Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHt
 
 I. The second week [slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week-2.pdf) from Zebin Yun.
 
-II. Some helpful videos
+II. Some helpful videos:
 
 - [BERT and its family - Introduction and Fine-tune](https://www.youtube.com/watch?v=1_gRK9EIQpc)
 - [BERT and its family - ELMo, BERT, GPT, XLNet, MASS, BART, UniLM, ELECTRA, and more](https://www.youtube.com/watch?v=Bywo7m6ySlk)
