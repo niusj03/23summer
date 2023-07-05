@@ -20,7 +20,7 @@ II. Some tutorials for Semi-supervised Learning:
 
 - Kihyuk Sohn et al. [Fixmatch: Simplifying semi-supervised learning with consistency and confidence.](https://arxiv.org/pdf/2001.07685.pdf)
 
-- [Awesome Semi-supervised Learning](awesome semi supervised learning), GitHub
+- [Awesome Semi-supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning), GitHub
 
 - Lil's Log, [Learning with not Enough Data Part 1: Semi-Supervised Learning](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/)
 
