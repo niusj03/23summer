@@ -28,4 +28,7 @@ II. Some tutorials for Semi-supervised Learning:
 
 ## References
 
+1. Kihyuk Sohn et al. [Fixmatch: Simplifying semi-supervised learning with consistency and confidence.](https://arxiv.org/pdf/2001.07685.pdf)
+
+2. L-Z Guo et al. [Safe Deep Semi-Supervised Learning for Unseen-Class Unlabeled Data.](https://proceedings.mlr.press/v119/guo20i.html)
 
