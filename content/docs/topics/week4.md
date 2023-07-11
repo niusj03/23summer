@@ -1,6 +1,6 @@
 # Week 4
 
-Topic: 
+Topic: The Self-Distillation Family in Self-Supervised Learning
 
 Keynote Speaker: Lifan Lin, Yue Wu
 

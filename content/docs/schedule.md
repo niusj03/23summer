@@ -10,7 +10,9 @@ title: "Schedule"
 |:-----------:|:------------------:|:------:|
 | Jun 21 | [An Introduction of Model-Agnostic Meta-Learning: Principles, Mechanisms, and Variants]({{< relref "/docs/topics/week1" >}})| Wang Ma |
 | Jun 29 | [The Bridge: Transferable Feature towards Advanced Mechanism]({{< relref "/docs/topics/week2" >}})| Zebing Yun |
-|Jul 6|[Semi-Supervised Learning based on Pseudo-labeling]({{< relref "/docs/topics/week2" >}})|Shengjie Niu|
+|Jul 5|[Semi-Supervised Learning based on Pseudo-labeling]({{< relref "/docs/topics/week3" >}})|Shengjie Niu|
+|Jul 13|[The Self-Distillation Family in Self-Supervised Learning]({{< relref "/docs/topics/week4" >}})|Lifan Lin, Yue Wu|
+|Jul 20|[The Deep Metric Learning Family in Self-Supervised Learning]({{< relref "/docs/topics/week5" >}})|Xinyao Li,Yiming Zhang|
 
 Please click the topics directly for detailed information like online link, main contents and references.
 
