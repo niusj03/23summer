@@ -31,9 +31,9 @@ III. Experiment
 
 ## Material
 
-I. Slide for Intro to Self-Supervised Learning from Shengjie Niu.
+I. [Slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week4_Niu.pdf) for Intro to Self-Supervised Learning from Shengjie Niu.
 
-II. Slides 1 and 2 for Self-Distillation Family from Yue Wu, Lifan Lin.
+II. Slides [1](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week4_Wu.pdf) and [2](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week4_Lin.pdf) for Self-Distillation Family from Yue Wu and Lifan Lin.
 
 
 ## References
