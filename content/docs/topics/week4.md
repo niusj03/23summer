@@ -13,27 +13,40 @@ Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHt
 
 ## Compendium
 
-I.  Background
+I. Introduction: Concept and Mechanism of Self-Distillation
 
-- Introduce the application of self-supervised learning
-- Introduce the generative self-supervised learning 
-- Introduce the contrasive self-supervised learning
+- Introduce the basic concept and structure of self-distillation. Discuss the mechanisms of self-distillation and its relation with Knowledge distillation.
+- Discuss the basic idea of contrastive learning and its pretext task (SimCLR).
+- The learning objective: A representation mapping invariant of transformation(augmentation). Alignment and uniformity are two key requirement.
+- Collapse(trivial solution). Optimal but unwanted result. Basic concept in preventing collapse.
 
-II. Method
+II. Contrastive Learning without Negative Samples
 
-- Introduce the BYOL model
-- Explain how BYOL avoids collapse
-- Introduce some research on the structure of BYOL models
+- Introduce BYOL, a self-distillation model learning without negative pairs.
+- Connections between BYOL and other works
+- Provide some illuminations about why BYOL performs well and avoids collapse
 
-III. Experiment
+III. Examination of BYOL-like model: Road to prevent collapse
 
-- Introduce some general methods for evaluating the capability of self-supervised learning networks
+- Mythology: Studying the components of the model through ablation to understand whether they are necessary in preventing collapse.
+- Hypothesis proposed: Procedures taken are actually solving an underlying optimization problem. The optimization is EM-like and thus do well in searching for a representation.
+- Validating the hypothesis vis experience.
+
+IV. Combining Transformer with Self-Distillation
+
+- Discuss the difficulty faced by the ViT(Vision Transformer). Specifically, the tokenizer of images.
+- Tokenizer learn better deep semantic information using self-distillation.
+- Discussing the trade-off between alignment and uniformity in ViT.
+- Improvement: Introduction MIM(Masked Image Modelling, much similar to masked language modelling) to self-distillation to create more effective pretext tasks.
+
+
 
 ## Material
 
 I. [Slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week4_Niu.pdf) for Intro to Self-Supervised Learning from Shengjie Niu.
 
 II. Slides [1](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week4_Wu.pdf) and [2](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week4_Lin.pdf) for Self-Distillation Family from Yue Wu and Lifan Lin.
+
 
 
 ## References
