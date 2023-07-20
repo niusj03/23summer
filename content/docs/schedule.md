@@ -12,7 +12,7 @@ title: "Schedule"
 | Jun 29 | [The Bridge: Transferable Feature towards Advanced Mechanism]({{< relref "/docs/topics/week2" >}})| Zebing Yun |
 |Jul 5|[Semi-Supervised Learning based on Pseudo-labeling]({{< relref "/docs/topics/week3" >}})|Shengjie Niu|
 |Jul 13|[The Self-Distillation Family in Self-Supervised Learning]({{< relref "/docs/topics/week4" >}})|Lifan Lin, Yue Wu|
-|Jul 20|[The Deep Metric Learning Family in Self-Supervised Learning]({{< relref "/docs/topics/week5" >}})|Xinyao Li,Yiming Zhang|
+|Jul 20|[The Deep Metric Learning Family in Self-Supervised Learning]({{< relref "/docs/topics/week5" >}})|Xinyao Li, Yiming Zhang, Shengqi Fang|
 
 Please click the topics directly for detailed information like online link, main contents and references.
 
