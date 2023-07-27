@@ -8,7 +8,7 @@ Time: Jul 27, 19:30 - 21:00 pm
 
 Venue: Lecture Hall 3, 302 (SUSTech)
 
-Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHtp)
+Online Link: [TencentMeeting](https://meeting.tencent.com/dm/ciI4lpALLhxz)
 
 ## Compendium
 
