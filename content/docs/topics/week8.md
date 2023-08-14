@@ -47,6 +47,9 @@ IV. Masked Image Model (MIM) family in Self-Supervised Learning
 
 [Big Picture](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/BigP.pdf) from Shengjie Niu.
 
+![WholePicture](https://github.com/niusj03/23summer/blob/master/data/Figure.JPG)
+
+
 
 ## Reference
 
