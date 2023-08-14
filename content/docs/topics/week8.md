@@ -1,10 +1,10 @@
 # Week 8
 
-Topic: Masked Image Model in Self-Supervised Learning
+Topic: Masked Image Model in Self-Supervised Learning in Self-Supervised Learning
 
 Keynote Speaker: Shengjie Niu, Zebin Yun
 
-Time: Aug 10, 19:30 - 21:00 pm
+Time: Aug 10, 19:30 - 21:30 pm
 
 Venue: Lecture Hall 3, 302 (SUSTech)
 
