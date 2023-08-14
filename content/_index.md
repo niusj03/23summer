@@ -11,7 +11,7 @@ type: docs
 
 **Supervisor: Prof. Chao Wang**
 
-**Keynote Speakers: Wang Ma, Zebin Yun, Shengjie Niu, Lifan Lin, Yue Wu**
+**Keynote Speakers: Wang Ma, Zebin Yun, Shengjie Niu, Lifan Lin, Yue Wu, Xinyao Li, Yiming Zhang, Shengqi Fang, Xunyi Jiang, Langtian Ma.**
 
 ## Introduction
 
@@ -31,4 +31,4 @@ We will be hosting a group study on deep learning at each Thursday 19:30 - 21:00
 
 ## More
 
-Click the [**Get Schedule**](/docs/schedule) to view our detailed timetable. Please click the [**Mail**](mailto:niusj03@gmail.com) directly if you have any questions.
+Click [**Get Schedule**](/docs/schedule) to view our detailed timetable. Please click [**Mail**](mailto:niusj03@gmail.com) directly if you have any questions.

@@ -2,7 +2,7 @@
 
 Topic: The Canonical Correlation Analysis Family in Self-Supervised Learning
 
-Keynote Speaker: Xunyi Jiang, Langtian MA
+Keynote Speaker: Xunyi Jiang, Langtian Ma
 
 Time: Aug 3, 19:30 - 21:00 pm
 
