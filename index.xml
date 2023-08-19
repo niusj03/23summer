@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction to and Advances in Self-Supervised Learning on 23 Summer Study</title><link>https://niusj03.github.io/23summer/</link><description>Recent content in Introduction to and Advances in Self-Supervised Learning on 23 Summer Study</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://niusj03.github.io/23summer/index.xml" rel="self" type="application/rss+xml"/><item><title>Acknowledgement</title><link>https://niusj03.github.io/23summer/docs/acknowledge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/acknowledge/</guid><description>Acknowledgement # Eight weeks have flown by, and as our self-supervised learning seminar comes to an end, my heart is full.
+I want to send a big &amp;rsquo;thank you&amp;rsquo; to all of you. Your questions, your intelligence, and your genuine curiosity made every meeting memorable. We dived deep into the world of self-supervised learning, but what I&amp;rsquo;ll cherish the most are the bonds we formed and the shared passion for the scientific world.</description></item><item><title>Introduction</title><link>https://niusj03.github.io/23summer/docs/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/introduction/</guid><description>Introduction # Main topics # Easy-to-understanding Introduction to and advances in some regions of deep learning (Self-supervised learning, meta learning, transfer learning, etc.) - determined by everyone in this seminar. Some practical topics like backbones, optimizers and data augmentations may also incorporated depend on progress. You can get # Knowledge about fundamental and advanced methodologies in machine learning.
+A proof of your study experience: this website - Every contribution you make to this seminar will be recorded</description></item><item><title>Schedule</title><link>https://niusj03.github.io/23summer/docs/schedule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/schedule/</guid><description>Schedule # Date Main Topic Speaker Jun 21 An Introduction of Model-Agnostic Meta-Learning: Principles, Mechanisms, and Variants Wang Ma Jun 29 The Bridge: Transferable Feature towards Advanced Mechanism Zebing Yun Jul 5 Semi-Supervised Learning based on Pseudo-labeling Shengjie Niu Jul 13 The Self-Distillation Family in Self-Supervised Learning Lifan Lin, Yue Wu Jul 20 The Deep Metric Learning Family in Self-Supervised Learning Xinyao Li, Yiming Zhang, Shengqi Fang Jul 27 Driving Neural Networks: An Exploration of Optimizers in Deep Learning &amp;amp; Ramblings in Optimization Wang Ma Aug 3 The Canonical Correlation Analysis Family in Self-Supervised Learning Xunyi Jiang, Langtian Ma Aug 10 Masked Image Model in Self-Supervised Learning Family in Self-Supervised Learning Shengjie Niu Please click the topics directly for detailed information like online link, main contents and references.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week1/</guid><description>Week 1 # Topic: An Introduction of Model-Agnostic Meta-Learning: Principles, Mechanisms, and Variants
+Keynote Speaker: Wang Ma
+Time: Jun 21, 11:00 - 12:30 am
+Venue: Business Hall, 314 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Introduction: The Concept and Mechanism of Meta-Learning (Credits: Prof. Hung-yi Lee&amp;rsquo;s Slides)
+Discussing the concept and mechanisms of Meta-Learning. Exploring its distinctive role and divergence from traditional Machine Learning approaches. II. The Emergence of MAML</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week2/</guid><description>Week 2 # Topic: The Bridge: Transferable Feature towards Advanced Mechanism
+Keynote Speaker: Zebin Yun
+Time: Jun 29, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # Present transferability of features in deep neural networks, specifically the generality versus specificity of neurons in each layer of a deep convolutional neural network. Furthermore, detail the connection between transferable features and pretrain-finetune mechanism.
+The first layer of a deep neural network learns simple features are generalizable across tasks.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week3/</guid><description>Week 3 # Topic: Semi-Supervised Learning based on Pseudo-labeling
+Keynote Speaker: Shengjie Niu
+Time: Jul 5, 19:30 - 21:30 pm
+Venue: Business Hall 3, 314 (SUSTech)
+Online Link: TencentMeeting
+Compendium # Material # I. Weekly Slide form Shengjie Niu.
+II. Source code of slide from Overleaf.
+III. Some tutorials for Semi-supervised Learning:
+Kihyuk Sohn et al. Fixmatch: Simplifying semi-supervised learning with consistency and confidence..
+Awesome Semi-supervised Learning, GitHub.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week4/</guid><description>Week 4 # Topic: The Self-Distillation Family in Self-Supervised Learning
+Keynote Speaker: Lifan Lin, Yue Wu, Shengjie Niu
+Time: Jul 13, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Introduction: Concept and Mechanism of Self-Distillation
+Introduce the basic concept and structure of self-distillation. Discuss the mechanisms of self-distillation and its relation with Knowledge distillation. Discuss the basic idea of contrastive learning and its pretext task (SimCLR).</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week5/</guid><description>Week 5 # Topic: The Deep Metric Learning Family in Self-Supervised Learning
+Keynote Speaker: Xinyao Li, Yiming Zhang, Shengqi Fang
+Time: Jul 20, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Contrastive Predictive Coding：
+Introduce Contrastive Predictive Coding, which learns self-supervised representations by predicting the future in latent space by using powerful autoregressive models. Introduce the concept of InfoNCE loss, which is a widely used loss function.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week6/</guid><description>Week 6 # Topic: Driving Neural Networks: An Exploration of Optimizers in Deep Learning &amp;amp; Ramblings in Optimization
+Keynote Speaker: Wang Ma
+Time: Jul 27, 19:30 - 21:00 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # Update soon
+Material # The weekly slide from Wang Ma.
+References # Update soon</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week7/</guid><description>Week 7 # Topic: The Canonical Correlation Analysis Family in Self-Supervised Learning
+Keynote Speaker: Xunyi Jiang, Langtian Ma
+Time: Aug 3, 19:30 - 21:00 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Traditional CCA
+Generalized CCA framework Traditional Nonlinear CCA A compressed representatoin approach for CCA Kernel CCA II. Deep CCA and its variates
+Deep canonical correlation analysis Deep canonically correlated autoencoders III.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week8/</guid><description>Week 8 # Topic: The simple summary of Self-Supervised Learning &amp;amp; Masked Image Model in Self-Supervised Learning Family in Self-Supervised Learning
+Keynote Speaker: Shengjie Niu, Zebin Yun
+Time: Aug 10, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Stage-1: Verstile developments among the field of SSL
+InstDisc proposed new pretext task of instance-level discrimination. CPC employed the predictive pretxt task on SSL, so as to realize wide applicability.</description></item></channel></rss>

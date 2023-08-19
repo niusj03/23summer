@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>23 Summer Study</title><link>https://niusj03.github.io/23summer/docs/topics/</link><description>Recent content on 23 Summer Study</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://niusj03.github.io/23summer/docs/topics/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week1/</guid><description>Week 1 # Topic: An Introduction of Model-Agnostic Meta-Learning: Principles, Mechanisms, and Variants
+Keynote Speaker: Wang Ma
+Time: Jun 21, 11:00 - 12:30 am
+Venue: Business Hall, 314 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Introduction: The Concept and Mechanism of Meta-Learning (Credits: Prof. Hung-yi Lee&amp;rsquo;s Slides)
+Discussing the concept and mechanisms of Meta-Learning. Exploring its distinctive role and divergence from traditional Machine Learning approaches. II. The Emergence of MAML</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week2/</guid><description>Week 2 # Topic: The Bridge: Transferable Feature towards Advanced Mechanism
+Keynote Speaker: Zebin Yun
+Time: Jun 29, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # Present transferability of features in deep neural networks, specifically the generality versus specificity of neurons in each layer of a deep convolutional neural network. Furthermore, detail the connection between transferable features and pretrain-finetune mechanism.
+The first layer of a deep neural network learns simple features are generalizable across tasks.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week3/</guid><description>Week 3 # Topic: Semi-Supervised Learning based on Pseudo-labeling
+Keynote Speaker: Shengjie Niu
+Time: Jul 5, 19:30 - 21:30 pm
+Venue: Business Hall 3, 314 (SUSTech)
+Online Link: TencentMeeting
+Compendium # Material # I. Weekly Slide form Shengjie Niu.
+II. Source code of slide from Overleaf.
+III. Some tutorials for Semi-supervised Learning:
+Kihyuk Sohn et al. Fixmatch: Simplifying semi-supervised learning with consistency and confidence..
+Awesome Semi-supervised Learning, GitHub.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week4/</guid><description>Week 4 # Topic: The Self-Distillation Family in Self-Supervised Learning
+Keynote Speaker: Lifan Lin, Yue Wu, Shengjie Niu
+Time: Jul 13, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Introduction: Concept and Mechanism of Self-Distillation
+Introduce the basic concept and structure of self-distillation. Discuss the mechanisms of self-distillation and its relation with Knowledge distillation. Discuss the basic idea of contrastive learning and its pretext task (SimCLR).</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week5/</guid><description>Week 5 # Topic: The Deep Metric Learning Family in Self-Supervised Learning
+Keynote Speaker: Xinyao Li, Yiming Zhang, Shengqi Fang
+Time: Jul 20, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Contrastive Predictive Coding：
+Introduce Contrastive Predictive Coding, which learns self-supervised representations by predicting the future in latent space by using powerful autoregressive models. Introduce the concept of InfoNCE loss, which is a widely used loss function.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week6/</guid><description>Week 6 # Topic: Driving Neural Networks: An Exploration of Optimizers in Deep Learning &amp;amp; Ramblings in Optimization
+Keynote Speaker: Wang Ma
+Time: Jul 27, 19:30 - 21:00 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # Update soon
+Material # The weekly slide from Wang Ma.
+References # Update soon</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week7/</guid><description>Week 7 # Topic: The Canonical Correlation Analysis Family in Self-Supervised Learning
+Keynote Speaker: Xunyi Jiang, Langtian Ma
+Time: Aug 3, 19:30 - 21:00 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Traditional CCA
+Generalized CCA framework Traditional Nonlinear CCA A compressed representatoin approach for CCA Kernel CCA II. Deep CCA and its variates
+Deep canonical correlation analysis Deep canonically correlated autoencoders III.</description></item><item><title/><link>https://niusj03.github.io/23summer/docs/topics/week8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://niusj03.github.io/23summer/docs/topics/week8/</guid><description>Week 8 # Topic: The simple summary of Self-Supervised Learning &amp;amp; Masked Image Model in Self-Supervised Learning Family in Self-Supervised Learning
+Keynote Speaker: Shengjie Niu, Zebin Yun
+Time: Aug 10, 19:30 - 21:30 pm
+Venue: Lecture Hall 3, 302 (SUSTech)
+Online Link: TencentMeeting
+Compendium # I. Stage-1: Verstile developments among the field of SSL
+InstDisc proposed new pretext task of instance-level discrimination. CPC employed the predictive pretxt task on SSL, so as to realize wide applicability.</description></item></channel></rss>
