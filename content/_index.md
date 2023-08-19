@@ -5,7 +5,7 @@ type: docs
 
 # Introduction to and Advances in Self-Supervised Learning
 
-The discussion class has now ended, click [**Acknowledge**](/docs/acknowledge) to the summary page.
+The seminar has now ended, click to [**acknowledgement**](/docs/acknowledge) page.
 
 ## Personnel
 

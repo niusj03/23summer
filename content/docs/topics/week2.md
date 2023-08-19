@@ -10,6 +10,17 @@ Venue: Lecture Hall 3, 302 (SUSTech)
 
 Online Link: [TencentMeeting](https://sustech.meeting.tencent.com/dm/rzsV1UdvWHtp)
 
+# Compendium
+
+Present transferability of features in deep neural networks, specifically the generality versus specificity of neurons in each layer of a deep convolutional neural network. Furthermore, detail the connection between transferable features and pretrain-finetune mechanism. 
+
+- The first layer of a deep neural network learns simple features are generalizable across tasks. 
+- As the layers get deeper, the neurons become more specialized to their original task, making them less transferable to new tasks. 
+- Fine-tuning a pre-trained network on a new task can be difficult due to optimization difficulties related to splitting the network. 
+- The transferability of features can be quantified by measuring the performance of a network when transferring between dis-similar tasks. 
+- Networks trained on a natural target task perform better when transferring to a man-made target task than vice versa. 6. The performance of a network can be improved by initializing the first few layers with random, untrained weights.
+- The pretrain weight can utilize the transferable feature for downstream tasks 
+
 ## Material
 
 I. The second week [slide](https://nbviewer.org/github/niusj03/23summer/blob/master/content/docs/pdfs/Week-2.pdf) from Zebin Yun.
